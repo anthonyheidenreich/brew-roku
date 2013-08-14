@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+	<!-- resultLength indicates the total number of results for this feed -->
+	<resultLength>3</resultLength>
+	<!-- endIndix  indicates the number of results for this *paged* section of the feed -->
+	<endIndex>8</endIndex>
+<item sdImg="http://viper.demandvideo.com/media/1326d4aa-de1d-4fcb-8a6a-70013e62d966/jpeg/2c2b36e0-2c10-458c-bdad-45e792e54b48_1.jpg" hdImg="http://viper.demandvideo.com/media/1326d4aa-de1d-4fcb-8a6a-70013e62d966/jpeg/2c2b36e0-2c10-458c-bdad-45e792e54b48_1.jpg">
+	<title>How to Use Airplay Without Apple TV : Apple Product FAQs</title>
+	<contentId>2c2b36e0-2c10-458c-bdad-45e792e54b48</contentId>
+	<contentType>howto</contentType>
+	<contentQuality></contentQuality>
+	<streamFormat>mov</streamFormat>
+	<media>
+		<streamQuality>SD</streamQuality>
+		<streamBitrate>1500</streamBitrate>
+		<streamUrl>http://viper.demandvideo.com/media/1326d4aa-de1d-4fcb-8a6a-70013e62d966/master/2c2b36e0-2c10-458c-bdad-45e792e54b48.mov</streamUrl>
+	</media>
+	<synopsis>Just because you don&apos;t have an Apple TV doesn&apos;t mean that you can&apos;t use the Airplay feature on iOS devices. Use Airplay without Apple TV with help from an expert in the world of Apple electronics in this free video clip.</synopsis>
+	<genres>Computers</genres>
+	<runtime>0</runtime>
+</item>
+<item sdImg="http://viper.demandvideo.com/media/1c43e650-a368-4da7-b489-5ddc21c1bed9/jpeg/474ed924-c3b8-4e6c-829d-27e343a730eb_0.jpg" hdImg="http://viper.demandvideo.com/media/1c43e650-a368-4da7-b489-5ddc21c1bed9/jpeg/474ed924-c3b8-4e6c-829d-27e343a730eb_0.jpg">
+	<title>How Can You Get the Third Level of Zombies on &quot;Call of D... : Call of Duty: Black Ops - Zombie Mode</title>
+	<contentId>474ed924-c3b8-4e6c-829d-27e343a730eb</contentId>
+	<contentType>How To</contentType>
+	<contentQuality></contentQuality>
+	<streamFormat>mov</streamFormat>
+	<media>
+		<streamQuality>SD</streamQuality>
+		<streamBitrate>1500</streamBitrate>
+		<streamUrl>http://viper.demandvideo.com/media/1c43e650-a368-4da7-b489-5ddc21c1bed9/master/474ed924-c3b8-4e6c-829d-27e343a730eb.mov</streamUrl>
+	</media>
+	<synopsis>Getting to the third level of zombies on &quot;Call of Duty: Black Ops&quot; seems easy, until you realize that it means that you have to actually survive the first two levels. Get to the third level of zombies on &quot;Call of Duty: Black Ops&quot; games with help from an expert in the art of digital warfare in this free video clip.</synopsis>
+	<genres>Hobbies, Games &amp; Toys</genres>
+	<runtime>0</runtime>
+</item>
+<item sdImg="http://viper.demandvideo.com/media/a46e24e5-9859-4274-83c3-5a4c44ee0c71/jpeg/a1d4d6df-1e1b-4856-af12-21b2e743b254_0.jpg" hdImg="http://viper.demandvideo.com/media/a46e24e5-9859-4274-83c3-5a4c44ee0c71/jpeg/a1d4d6df-1e1b-4856-af12-21b2e743b254_0.jpg">
+	<title>How Do You Edit the Curse Words out on &quot;Call of Dut... : Call of Duty: Black Ops - Navigating Menus</title>
+	<contentId>a1d4d6df-1e1b-4856-af12-21b2e743b254</contentId>
+	<contentType>How To</contentType>
+	<contentQuality></contentQuality>
+	<streamFormat>mov</streamFormat>
+	<media>
+		<streamQuality>SD</streamQuality>
+		<streamBitrate>1500</streamBitrate>
+		<streamUrl>http://viper.demandvideo.com/media/a46e24e5-9859-4274-83c3-5a4c44ee0c71/master/a1d4d6df-1e1b-4856-af12-21b2e743b254.mov</streamUrl>
+	</media>
+	<synopsis>Editing the curse words out of &quot;Call of Duty: Black Ops&quot; is a great way to make the game as family friendly as possible. Edit the curse words out of &quot;Call of Duty: Black Ops&quot; with help from an electronics and software expert in this free video clip.</synopsis>
+	<genres>Hobbies, Games &amp; Toys</genres>
+	<runtime>0</runtime>
+</item>
+</feed>

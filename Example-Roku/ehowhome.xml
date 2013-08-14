@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+	<!-- resultLength indicates the total number of results for this feed -->
+	<resultLength>3</resultLength>
+	<!-- endIndix  indicates the number of results for this *paged* section of the feed -->
+	<endIndex>8</endIndex>
+<item sdImg="http://viper.demandvideo.com/media/caeb0076-a4e1-4b23-9b4e-6aca7df25b3b/jpeg/b26d2d33-cab7-4e35-8f2f-ebcd19b61f2e_0.jpg" hdImg="http://viper.demandvideo.com/media/caeb0076-a4e1-4b23-9b4e-6aca7df25b3b/jpeg/b26d2d33-cab7-4e35-8f2f-ebcd19b61f2e_0.jpg">
+	<title>Landscaping Designs With Waterfall Fountains : Landscaping Basics</title>
+	<contentId>b26d2d33-cab7-4e35-8f2f-ebcd19b61f2e</contentId>
+	<contentType>howto</contentType>
+	<contentQuality></contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+		<streamQuality>SD</streamQuality>
+		<streamBitrate>1500</streamBitrate>
+		<streamUrl>http://viper.demandvideo.com/media/caeb0076-a4e1-4b23-9b4e-6aca7df25b3b/master/b26d2d33-cab7-4e35-8f2f-ebcd19b61f2e.mp4</streamUrl>
+	</media>
+	<synopsis>Many different landscaping designs are absolutely great for incorporating a waterfall fountain into your home. Find out about landscape designs with waterfall fountains with help from a landscape designer in this free video clip.</synopsis>
+	<genres>Home &amp; Garden</genres>
+	<runtime>0</runtime>
+</item>
+<item sdImg="http://viper.demandvideo.com/media/b3c7353b-8088-44f2-b450-5094b4219848/jpeg/830b75eb-3fab-4b56-ac58-6dcc09aa9f4c_0.jpg" hdImg="http://viper.demandvideo.com/media/b3c7353b-8088-44f2-b450-5094b4219848/jpeg/830b75eb-3fab-4b56-ac58-6dcc09aa9f4c_0.jpg">
+	<title>How to Decorate a Table With Lemons : Decorate a Table in Style</title>
+	<contentId>830b75eb-3fab-4b56-ac58-6dcc09aa9f4c</contentId>
+	<contentType>howto</contentType>
+	<contentQuality></contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+		<streamQuality>SD</streamQuality>
+		<streamBitrate>1500</streamBitrate>
+		<streamUrl>http://viper.demandvideo.com/media/b3c7353b-8088-44f2-b450-5094b4219848/master/830b75eb-3fab-4b56-ac58-6dcc09aa9f4c.mp4</streamUrl>
+	</media>
+	<synopsis>One great tool that can be used to give your table its own unique look is a batch of lemons. Decorate a table with lemons with help from an interior design professional in this free video clip.</synopsis>
+	<genres>Home &amp; Garden</genres>
+	<runtime>0</runtime>
+</item>
+<item sdImg="http://viper.demandvideo.com/media/a1611bdc-4776-4ef7-a818-b258aa3ee68a/jpeg/9e70ab31-5952-4d1a-b6b1-dbcf13bea559_0.jpg" hdImg="http://viper.demandvideo.com/media/a1611bdc-4776-4ef7-a818-b258aa3ee68a/jpeg/9e70ab31-5952-4d1a-b6b1-dbcf13bea559_0.jpg">
+	<title>How to Transplant a Small Spinach Plant to a Larger Pot : Seed Planting Tips</title>
+	<contentId>9e70ab31-5952-4d1a-b6b1-dbcf13bea559</contentId>
+	<contentType>How To</contentType>
+	<contentQuality></contentQuality>
+	<streamFormat>mov</streamFormat>
+	<media>
+		<streamQuality>SD</streamQuality>
+		<streamBitrate>1500</streamBitrate>
+		<streamUrl>http://viper.demandvideo.com/media/a1611bdc-4776-4ef7-a818-b258aa3ee68a/master/9e70ab31-5952-4d1a-b6b1-dbcf13bea559.mov</streamUrl>
+	</media>
+	<synopsis>When transplanting a small spinach plant to a larger pot, you&apos;re always going to need to have a few basic tools at the ready. Transplant a small spinach plant to a larger pot with help from a classically-trained chef with experience in both world class restaurants and private dining companies in this free video clip.</synopsis>
+	<genres>Home &amp; Garden</genres>
+	<runtime>0</runtime>
+</item>
+</feed>

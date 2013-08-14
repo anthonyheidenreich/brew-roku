@@ -1,0 +1,12 @@
+Example of dynamic Roku content.
+
+The other piece is the static BrightScript that builds the UI. This is packaged up and uploaded to Roku which creates the channel.
+
+1. Become a Roku develop here: http://www.roku.com/developer
+
+2. Download the SDK and the samples.
+
+3. Some good tutorials: http://www.treygourley.com/2012/07/developing-a-basic-roku-channel/
+						http://blog.defaultroute.com/2010/12/13/building-a-roku-channel-part-1/
+						http://blog.defaultroute.com/2011/01/04/building-a-roku-channel-part-2/
+						http://blog.defaultroute.com/2011/01/24/building-a-roku-channel-part-3/
