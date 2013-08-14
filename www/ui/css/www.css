@@ -1,0 +1,42 @@
+/* CSS reset */
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td { margin: 0; padding: 0; border: 0; outline: 0; font-size: 10pt; vertical-align: baseline; background: transparent; font-family: sans-serif; color:#ddd; }
+
+body { line-height: 1; }
+ol, ul { list-style: none; }
+blockquote, q { quotes: none; }
+blockquote:before, blockquote:after,
+q:before, q:after { content: ''; content: none; }
+img { border:none}
+:focus { outline: 0; }
+ins { text-decoration: none; }
+del { text-decoration: line-through; } 
+table { border-collapse: collapse; border-spacing: 0; }
+.clear { float:none; clear:both; line-height:0; }
+/* end CSS reset */
+
+a { color: #665; text-decoration:none; }
+a:hover { text-decoration:underline; }
+h1 { color: #eb4; font-size:14pt; margin:5px 0px; }
+h2 { color: #877; font-size:12pt; margin:5px 0px; }
+
+body { background: #000; margin: .5em 1em; }
+
+#body { width: 1100px; margin: 0 auto; 
+    background: -webkit-linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('/ui/images/old-man.jpg');
+    background: -moz-linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('/ui/images/old-man.jpg');
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('/ui/images/old-man.jpg');
+    padding: 2rem; background-repeat: no-repeat; background-size: cover; }
+
+#header { border-bottom: 1px solid #877; padding: 0 .5em; margin: 0 0 .5em; }
+
+#footer { border-top: 1px solid #877; padding: .5em 0; margin: .5em 0 0; text-align:center;  float:none; clear:both; }
+
+#content { padding: .5em; }
+#content dl { display: inline; }
+#content dl dt { color: #eb4; display:block; float:none; clear:both; border-bottom: 1px solid #877; padding:.5em 0 .25em; }
+#content dl dd { cursor:pointer; float:left; width: 250px; border:1px solid #877; margin: .25em; padding:.25em; border-radius:.5em; }
+#content dl dt.ontap, #content dl dd.ontap { border-color:#fff; }
+#content dl dt.intheworks, #content dl dd.intheworks { border-color:#cfc; }
+#content dl dd .full { display:none; }
+#content dl dd h3 {  }
+#content dl dd img { display:block; max-width: 200px; max-height: 150px; border:none; margin: 0px auto; }
