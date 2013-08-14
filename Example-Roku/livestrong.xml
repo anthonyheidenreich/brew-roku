@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+	<!-- resultLength indicates the total number of results for this feed -->
+	<resultLength>2</resultLength>
+	<!-- endIndix  indicates the number of results for this *paged* section of the feed -->
+	<endIndex>8</endIndex>
+	<item HDImg="http://viper.demandvideo.com/media/eb23585a-c3aa-4262-9228-686b947e94e5/jpeg/de65f447-497b-4997-89f3-7e6a965f9828_0.jpg" hdImg="http://viper.demandvideo.com/media/eb23585a-c3aa-4262-9228-686b947e94e5/jpeg/de65f447-497b-4997-89f3-7e6a965f9828_0.jpg">
+		<title>Tips on Getting a Tighter Core : LIVESTRONG: Fitness &amp; Exercise Tips</title>
+		<contentId>de65f447-497b-4997-89f3-7e6a965f9828</contentId>
+		<contentType>howto</contentType>
+		<contentQuality></contentQuality>
+		<streamFormat>mov</streamFormat>
+		<media>
+			<streamQuality>HD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://viper.demandvideo.com/media/eb23585a-c3aa-4262-9228-686b947e94e5/master/de65f447-497b-4997-89f3-7e6a965f9828.mov</streamUrl>
+		</media>
+		<synopsis>To achieve a tighter and more stable core, you need to pick exercises that challenge you and maintain a strong foundation. Get tips on getting a tighter core with help from an expert with 15 years of experience in the fitness industry in this free video clip.</synopsis>
+		<genres>Sports &amp; Fitness</genres>
+		<runtime>260</runtime>
+	</item>
+	<item HDImg="http://viper.demandvideo.com/media/64051417-26c3-4461-8dfb-9bca1ffbcc9d/jpeg/ef24f76f-e33d-44c4-b448-c7b10c6a49e1_1.jpg" hdImg="http://viper.demandvideo.com/media/64051417-26c3-4461-8dfb-9bca1ffbcc9d/jpeg/ef24f76f-e33d-44c4-b448-c7b10c6a49e1_1.jpg">
+		<title>Exercises for Lacrosse Players : Exercise &amp; Workout Tips</title>
+		<contentId>ef24f76f-e33d-44c4-b448-c7b10c6a49e1</contentId>
+		<contentType>howto</contentType>
+		<contentQuality></contentQuality>
+		<streamFormat>mov</streamFormat>
+		<media>
+			<streamQuality>HD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://viper.demandvideo.com/media/64051417-26c3-4461-8dfb-9bca1ffbcc9d/master/ef24f76f-e33d-44c4-b448-c7b10c6a49e1.mov</streamUrl>
+		</media>
+		<synopsis>You should always gear your exercise routine towards the sport that you&apos;re trying to get ready for. Learn about exercises tailor made for lacrosse players with help from your friends at LIVESTRONG.com in this free video clip.</synopsis>
+		<genres>Sports &amp; Fitness</genres>
+		<runtime>260</runtime>
+	</item>
+</feed>
