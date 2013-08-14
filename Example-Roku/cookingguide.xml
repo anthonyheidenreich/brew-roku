@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+	<!-- resultLength indicates the total number of results for this feed -->
+	<resultLength>4</resultLength>
+	<!-- endIndix  indicates the number of results for this *paged* section of the feed -->
+	<endIndex>8</endIndex>
+<item sdImg="http://viper.demandvideo.com/media/94953e86-38a4-4c90-813f-b94b3b6e0431/jpeg/1e3af663-caac-4b89-a027-35cbaa64f421_0.jpg" hdImg="http://viper.demandvideo.com/media/94953e86-38a4-4c90-813f-b94b3b6e0431/jpeg/1e3af663-caac-4b89-a027-35cbaa64f421_0.jpg">
+	<title>Japanese Sesame Seaweed Salad : Healthy Salads</title>
+	<contentId>1e3af663-caac-4b89-a027-35cbaa64f421</contentId>
+	<contentType>howto</contentType>
+	<contentQuality>Gen Anderson</contentQuality>
+	<streamFormat>mov</streamFormat>
+	<media>
+		<streamQuality>HD</streamQuality>
+		<streamBitrate>1500</streamBitrate>
+		<streamUrl>http://viper.demandvideo.com/media/94953e86-38a4-4c90-813f-b94b3b6e0431/master/1e3af663-caac-4b89-a027-35cbaa64f421.mov</streamUrl>
+	</media>
+	<synopsis>Japanese sesame seaweed salad is a lot easier to make than you might think. Learn to prepare Japanese sesame seaweed salad with help from the host of a nationally televised culinary show host in this free video clip.</synopsis>
+	<genres>Food &amp; Drink</genres>
+	<runtime>238</runtime>
+</item>
+<item sdImg="http://viper.demandvideo.com/media/9add2389-eb1b-49df-8488-c858233d3327/jpeg/610a48a0-a393-4409-a287-5e914c586cb8_0.jpg" hdImg="http://viper.demandvideo.com/media/9add2389-eb1b-49df-8488-c858233d3327/jpeg/610a48a0-a393-4409-a287-5e914c586cb8_0.jpg">
+	<title>Cherry &amp; Ricotta Blintzes : Stress Less, Weigh Less Recipes</title>
+	<contentId>610a48a0-a393-4409-a287-5e914c586cb8</contentId>
+	<contentType>howto</contentType>
+	<contentQuality>Holly Mosier</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+		<streamQuality>HD</streamQuality>
+		<streamBitrate>1500</streamBitrate>
+		<streamUrl>http://viper.demandvideo.com/media/9add2389-eb1b-49df-8488-c858233d3327/master/610a48a0-a393-4409-a287-5e914c586cb8.mp4</streamUrl>
+	</media>
+	<synopsis>Cherry and ricotta blintzes are a lot easier to make than you might think. Learn how to prepare cherry and ricotta blintzes with help from an author and media personality in this free video clip.</synopsis>
+	<genres>Food &amp; Drink</genres>
+	<runtime>242</runtime>
+</item>
+<item sdImg="http://viper.demandvideo.com/media/7c681809-3c88-465d-8f2a-905d2c59afdc/jpeg/a89f800f-3e9f-47eb-8c8a-0239b04c7657_0.jpg" hdImg="http://viper.demandvideo.com/media/7c681809-3c88-465d-8f2a-905d2c59afdc/jpeg/a89f800f-3e9f-47eb-8c8a-0239b04c7657_0.jpg">
+	<title>Healthy Oatmeal &amp; Applesauce Breakfast Recipe : Healthy Breakfasts</title>
+	<contentId>a89f800f-3e9f-47eb-8c8a-0239b04c7657</contentId>
+	<contentType>howto</contentType>
+	<contentQuality>Jackie Newgent</contentQuality>
+	<streamFormat>mov</streamFormat>
+	<media>
+		<streamQuality>HD</streamQuality>
+		<streamBitrate>1500</streamBitrate>
+		<streamUrl>http://viper.demandvideo.com/media/7c681809-3c88-465d-8f2a-905d2c59afdc/master/a89f800f-3e9f-47eb-8c8a-0239b04c7657.mov</streamUrl>
+	</media>
+	<synopsis>There are few ways better to start a day than with a healthy oatmeal and applesauce breakfast. Get the recipe for a healthy oatmeal and applesauce breakfast with help from a nutritionist, chef and media personality in this free video clip.</synopsis>
+	<genres>Food &amp; Drink</genres>
+	<runtime>500</runtime>
+</item>
+<item sdImg="http://viper.demandvideo.com/media/271cf343-d3ff-48c2-a247-5f712f3fdf80/jpeg/b6aed33e-dd31-4b60-a007-6235bd6b9cbf_1.jpg" hdImg="http://viper.demandvideo.com/media/271cf343-d3ff-48c2-a247-5f712f3fdf80/jpeg/b6aed33e-dd31-4b60-a007-6235bd6b9cbf_1.jpg">
+	<title>How to Make Short Ribs Less Fatty : Healthy Recipes</title>
+	<contentId>b6aed33e-dd31-4b60-a007-6235bd6b9cbf</contentId>
+	<contentType>howto</contentType>
+	<contentQuality>Jason Tilmann</contentQuality>
+	<streamFormat>mov</streamFormat>
+	<media>
+		<streamQuality>HD</streamQuality>
+		<streamBitrate>1500</streamBitrate>
+		<streamUrl>http://viper.demandvideo.com/media/271cf343-d3ff-48c2-a247-5f712f3fdf80/master/b6aed33e-dd31-4b60-a007-6235bd6b9cbf.mov</streamUrl>
+	</media>
+	<synopsis>There are a few different ways that you can make short ribs less fatty depending on your preferences. Learn how to make short ribs less fatty with help from a talented and dedicated Manhattan chef in this free video clip.</synopsis>
+	<genres>Food &amp; Drink</genres>
+	<runtime>93</runtime>
+</item>
+</feed>

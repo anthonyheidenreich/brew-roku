@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<categories>
+	  <!-- banner_ad: optional element which displays an at the top level category screen -->
+	  <banner_ad sd_img="http://10.9.118.18:8083/images/banner_HD.png" hd_img="http://10.9.118.18:8083/images/banner_HD.png"/>
+	  
+	<category title="eHow" description="Trusted advice for the curious life" sd_img="http://10.9.118.18:8083/images/eHow_660x371.jpg" hd_img="http://10.9.118.18:8083/images/eHow_660x371.jpg">
+		<categoryLeaf title="Beauty" description="" feed="http://10.9.118.18:8083/ehowbeauty.xml"/>
+		<categoryLeaf title="Finance" description="" feed="http://10.9.118.18:8083/ehowfinance.xml" />
+		<categoryLeaf title="expert village" description="Discover the expert in you" feed="http://10.9.118.18:8083/expertvillage.xml" />
+	</category>
+	<category title="eHow Home" description="Home" sd_img="http://10.9.118.18:8083/images/ehowhome.png" hd_img="http://10.9.118.18:8083/images/ehowhome.png">
+		<categoryLeaf title="CookingGuide" description="" feed="http://10.9.118.18:8083/ehowhome.xml"/>
+	</category>
+	<category title="eHow Health" description="Health" sd_img="http://10.9.118.18:8083/images/ehowhealth.png" hd_img="http://10.9.118.18:8083/images/ehowhealth.png">
+		<categoryLeaf title="CookingGuide" description="" feed="http://10.9.118.18:8083/ehowhealth.xml"/>
+	</category>
+	<category title="eHow Tech" description="Tech" sd_img="http://10.9.118.18:8083/images/ehowtech.png" hd_img="http://10.9.118.18:8083/images/ehowtech.png">
+		<categoryLeaf title="CookingGuide" description="" feed="http://10.9.118.18:8083/ehowtech.xml"/>
+	</category>
+
+	<category title="Livestrong" description="The Limitless Potential of You" sd_img="http://10.9.118.18:8083/images/livestrong.png" hd_img="http://10.9.118.18:8083/images/livestrong.png">
+		<categoryLeaf title="Livestrong" description="" feed="http://10.9.118.18:8083/livestrong.xml"/>
+	</category>
+
+	<category title="CookingGuide" description="Cooking Guide" sd_img="http://10.9.118.18:8083/images/food.png" hd_img="http://10.9.118.18:8083/images/food.png">
+		<categoryLeaf title="CookingGuide" description="" feed="http://10.9.118.18:8083/cookingguide.xml"/>
+	</category>
+ </categories>
