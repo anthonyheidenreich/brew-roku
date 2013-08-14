@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+	<!-- resultLength indicates the total number of results for this feed -->
+	<resultLength>3</resultLength>
+	<!-- endIndix  indicates the number of results for this *paged* section of the feed -->
+	<endIndex>8</endIndex>
+<item sdImg="http://viper.demandvideo.com/media/b39dd567-ddde-49ae-b168-4028d9139780/jpeg/9c5386f3-90ad-4521-852d-35236b2a7635_1.jpg" hdImg="http://viper.demandvideo.com/media/b39dd567-ddde-49ae-b168-4028d9139780/jpeg/9c5386f3-90ad-4521-852d-35236b2a7635_1.jpg">
+	<title>Are Workout Machines Easy on Your Joints? : Working Out</title>
+	<contentId>9c5386f3-90ad-4521-852d-35236b2a7635</contentId>
+	<contentType>How To</contentType>
+	<contentQuality></contentQuality>
+	<streamFormat>mov</streamFormat>
+	<media>
+		<streamQuality>SD</streamQuality>
+		<streamBitrate>1500</streamBitrate>
+		<streamUrl>http://viper.demandvideo.com/media/b39dd567-ddde-49ae-b168-4028d9139780/master/9c5386f3-90ad-4521-852d-35236b2a7635.mov</streamUrl>
+	</media>
+	<synopsis>Whether or not workout machines are easy on your joints depends almost entirely on a few basic things. Find out if workout machines are easy on your joints with help from a longtime and passionate personal trainer in this free video clip.</synopsis>
+	<genres>Sports &amp; Fitness</genres>
+	<runtime>0</runtime>
+</item>
+<item sdImg="http://viper.demandvideo.com/media/842611cc-812d-4f73-9b3e-a45d3133818e/jpeg/abf253f1-6d0b-4c45-8bcd-4a00b1ecb9c7_1.jpg" hdImg="http://viper.demandvideo.com/media/842611cc-812d-4f73-9b3e-a45d3133818e/jpeg/abf253f1-6d0b-4c45-8bcd-4a00b1ecb9c7_1.jpg">
+	<title>Shoulder Exercises for Quarterbacks : Fitness For Sports</title>
+	<contentId>abf253f1-6d0b-4c45-8bcd-4a00b1ecb9c7</contentId>
+	<contentType>howto</contentType>
+	<contentQuality></contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+		<streamQuality>SD</streamQuality>
+		<streamBitrate>1500</streamBitrate>
+		<streamUrl>http://viper.demandvideo.com/media/842611cc-812d-4f73-9b3e-a45d3133818e/master/abf253f1-6d0b-4c45-8bcd-4a00b1ecb9c7.mp4</streamUrl>
+	</media>
+	<synopsis>Certain shoulder exercises are ideal for getting quarterbacks ready for the big game. Learn about shoulder exercises for quarterbacks with help from a strength coach in professional baseball with more than 11 years experience in this free video clip.</synopsis>
+	<genres>Sports &amp; Fitness</genres>
+	<runtime>0</runtime>
+</item>
+<item sdImg="http://viper.demandvideo.com/media/45ca87d5-0172-4edf-9fd3-69951211c418/jpeg/fc651d21-5510-4631-b45b-7db294e88aad_0.jpg" hdImg="http://viper.demandvideo.com/media/45ca87d5-0172-4edf-9fd3-69951211c418/jpeg/fc651d21-5510-4631-b45b-7db294e88aad_0.jpg">
+	<title>What Muscles Do Kettlebells Work? : Kettlebell Exercises &amp; Squats</title>
+	<contentId>fc651d21-5510-4631-b45b-7db294e88aad</contentId>
+	<contentType>howto</contentType>
+	<contentQuality></contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+		<streamQuality>SD</streamQuality>
+		<streamBitrate>1500</streamBitrate>
+		<streamUrl>http://viper.demandvideo.com/media/45ca87d5-0172-4edf-9fd3-69951211c418/master/fc651d21-5510-4631-b45b-7db294e88aad.mp4</streamUrl>
+	</media>
+	<synopsis>Kettlebells are an excellent way to give a few key muscle groups on your body an excellent workout. Find out which muscles kettlebells work out with help from a personal trainer in this free video clip.</synopsis>
+	<genres>Sports &amp; Fitness</genres>
+	<runtime>0</runtime>
+</item>
+</feed>
