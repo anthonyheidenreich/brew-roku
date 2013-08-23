@@ -1,5 +1,4 @@
 <?php
-
 class Mysql
 {
 	private $_db;
@@ -23,7 +22,7 @@ class Mysql
 	}
 
 	public function all() {
-		$result = array();
+		$result = [];
 		$r = $this->query(sprintf('select * from %s', $this->_table));
 		while ($row = $r->fetch_assoc()) {
 			$result[] = $row;
@@ -51,21 +50,25 @@ class Mysql
 		return uuid();
 	}
 
+	public function delete($uid) {
+		$result = $this->query(sprintf('delete from %s where %s = "%s"', $this->_table, $this->_primary_key, $this->escape($uid)));
+	}
+
 	public function insert($data) {
-		$keys = array($this->_primary_key);
-		$values = array($this->_generate_pk());
+		$keys = [$this->_primary_key];
+		$values = [$this->_generate_pk()];
 		foreach ($data as $k => $v) {
 			$keys[] = $k;
 			$values[] = $this->escape($v);
 		}
 		$sql = sprintf('insert into %s (%s) values ("%s")', $this->_table, implode(',', $keys), implode('", "',$values));;
-		echo $sql, '<br />';
+		# debug($sql);
 		return $this->query($sql);
 	}
 
 	public function update($data) {
 		$pk = null;
-		$values = array();
+		$values = [];
 		foreach ($data as $k=>$v) { 
 			if ($k == $this->_primary_key) {
 				$pk = $this->escape($v);
@@ -73,7 +76,8 @@ class Mysql
 				$values[] = sprintf('%s = "%s"', $k, $this->escape($v));
 			}
 		}
-		$sql = sprintf('update %s set %s where %s = "%s"', $this->_table, implode(',', $values), $this->_primary_key, $this->pk);
+		$sql = sprintf('update %s set %s where %s = "%s"', $this->_table, implode(',', $values), $this->_primary_key, $pk);
+		# debug($sql);
 		return $this->query($sql);
 	}
 }
@@ -82,17 +86,14 @@ class Brew extends Mysql
 {
 	protected $_table = 'brew';
 
-	public $brews =  array(
-		'On Tap' => array(),
-		'In the Works' => array(),
-		'Out of Stock' => array(),
-	);
+	public $brews =  [
+		'On Tap' => [],
+		'In the Works' => [],
+		'Out of Stock' => [],
+	];
 
-	public function grouped()
-	{
-		foreach ($this->all() as $brew) {
-			$this->brews[$brew['status']][] = $brew;
-		}
+	public function grouped() {
+		array_map(function($brew) { $this->brews[$brew['status']][] = $brew; }, $this->all());
 		return $this->brews;
 	}
 }

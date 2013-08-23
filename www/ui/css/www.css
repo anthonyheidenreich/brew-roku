@@ -1,7 +1,6 @@
 /* CSS reset */
-html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td { margin: 0; padding: 0; border: 0; outline: 0; font-size: 10pt; vertical-align: baseline; background: transparent; font-family: sans-serif; color:#ddd; }
 
-body { line-height: 1; }
+body { line-height: 1; color:#ddd; }
 ol, ul { list-style: none; }
 blockquote, q { quotes: none; }
 blockquote:before, blockquote:after,
@@ -14,7 +13,7 @@ table { border-collapse: collapse; border-spacing: 0; }
 .clear { float:none; clear:both; line-height:0; }
 /* end CSS reset */
 
-a { color: #665; text-decoration:none; }
+a { color: #ccc; text-decoration:none; }
 a:hover { text-decoration:underline; }
 h1 { color: #eb4; font-size:14pt; margin:5px 0px; }
 h2 { color: #877; font-size:12pt; margin:5px 0px; }
@@ -40,3 +39,8 @@ body { background: #000; margin: .5em 1em; }
 #content dl dd .full { display:none; }
 #content dl dd h3 {  }
 #content dl dd img { display:block; max-width: 200px; max-height: 150px; border:none; margin: 0px auto; }
+
+ul.navigation { display: inline; }
+ul.navigation li { cursor:pointer; float:left; width: 250px; border:1px solid #877; margin: .25em; padding:.25em; border-radius:.5em; }
+ul.navigation li h3 {  }
+ul.navigation li img { display:block; max-width: 200px; max-height: 150px; border:none; margin: 0px auto; }

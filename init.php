@@ -1,6 +1,7 @@
 <?php
-define(BASEDIR, realpath(dirname(__FILE__)));
-
+set_include_path(get_include_path() . PATH_SEPARATOR . realpath(__DIR__));
 $config = parse_ini_file('config.ini', true);
 
-require_once(BASEDIR.'/lib/util.php');
+require_once('lib/util.php');
+
+function debug($data) { echo '<pre>',print_r($data,1),'</pre>'; }
